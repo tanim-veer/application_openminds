@@ -113,7 +113,7 @@ ne sont pas versionnées dans ce dépôt.
 |---|---|---|
 | Aklouf Imaddedine | Lead Developer & Architect | Architecture Firebase, authentification multi-rôle, coordination Git |
 | Ali Ben Akremi | Project Manager & Developer | Espace bénévole (catalogue, détail, quiz), logique de scoring et de certification |
-| **Tanim Veer** | **Flutter Developer & Tests** | **Tableau de bord bénévole (flux Firestore imbriqués), écran de détail des formations, intégration Firestore temps réel, tests de non-régression** |
+| **Tanim Veer** | **Flutter Developer & Tests** | **Tableau de bord bénévole (flux Firestore imbriqués), écran des participants côté formateur, écran de détail des formations, intégration Firestore temps réel, tests et suivi des bugs** |
 | Adam Mokadem | Developer & Tests | Interface formateur (participants, présences), tests fonctionnels, suivi des bugs |
 | Paul Aernout | Developer & Docs | Tableau de bord administrateur et statistiques, documentation, rapport |
 | Yassine Bakhtaoui | Developer & Intégration | Écran de création de formation, configuration Firebase et génération de l'APK |
