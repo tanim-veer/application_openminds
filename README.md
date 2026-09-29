@@ -67,6 +67,18 @@ donnant aux formateurs et aux administrateurs les outils pour piloter et suivre 
 
 ---
 
+## 📱 Captures
+
+L'application lancée sur un émulateur Android. Les données affichées (formations, sessions, participants, résultats) sont des **données de démonstration**, chargées dans l'émulateur Firebase local pour ne pas exposer les comptes réels.
+
+| Connexion | Catalogue | Tableau de bord bénévole |
+|---|---|---|
+| ![Connexion](docs/01_connexion.png) | ![Catalogue des formations](docs/02_catalogue.png) | ![Tableau de bord : badges et résultats des quiz](docs/03_dashboard.png) |
+
+| Détail d'une formation | Sessions du formateur | Participants d'une session |
+|---|---|---|
+| ![Détail d'une formation](docs/04_detail.png) | ![Sessions du formateur](docs/05_sessions_formateur.png) | ![Participants, présences et badges](docs/06_participants.png) |
+
 ## 🏗️ Architecture
 
 Architecture en trois couches : **écrans Flutter** (par profil), **services** (logique métier et
